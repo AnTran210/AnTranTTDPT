@@ -1,0 +1,7 @@
+﻿  LZW.cpp
+D:\Document\Multimedia\Final report\LZW compression\LZW.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+D:\Document\Multimedia\Final report\LZW compression\LZW.cpp(29,22): warning C4018: '<': signed/unsigned mismatch
+D:\Document\Multimedia\Final report\LZW compression\LZW.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+D:\Document\Multimedia\Final report\LZW compression\LZW.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+D:\Document\Multimedia\Final report\LZW compression\LZW.cpp(87,22): warning C4018: '<': signed/unsigned mismatch
+  LZW compression.vcxproj -> D:\Document\Multimedia\Final report\LZW compression\Debug\LZW compression.exe
